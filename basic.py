@@ -1,0 +1,7 @@
+print(2 + 2)
+print(20 - 2)
+print(20 * 2)
+print(2 ** 5)
+print(9 / 3)
+print(9 // 3)
+print(23 % 7)
