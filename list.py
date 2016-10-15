@@ -38,3 +38,7 @@ print(spam)
 del spam[2]
 print(spam)
 
+del spam
+# print(spam)   #this will gibe an error because spam is deleted
+
+
