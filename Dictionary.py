@@ -1,5 +1,7 @@
-# indexes are called keys
+book = {'name': 'Automate the boring stuff', 'type': 'Python'}
+print(book['name'])
 
-myCat = {'size': 'large', 'color': 'gray', 'disposition': 'loud'}
-print(myCat)
-print(myCat['size'])
+for v in book.keys():
+	print(v)
+for k in book.values():
+	print(k)
