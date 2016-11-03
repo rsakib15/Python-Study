@@ -45,7 +45,7 @@ print(cat)
 cat.setdefault('color', 'white')
 print(cat)
 
-message = "this is going to be my new framework crush. The codebase seems clean and certainly a good starting point to learn about asynchronous programming for me "
+message = "this is going to be my new language crush. this is python"
 
 countchar = {}
 
