@@ -51,6 +51,11 @@ countchar = {}
 
 for character in message:
 	countchar.setdefault(character, 0)
-	countchar[character] = countchar[character] + 1
+	countchar[character] += 1
 
 print(countchar)
+import pprint
+pprint.pprint(countchar)
+
+
+
